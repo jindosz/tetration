@@ -1,7 +1,7 @@
 # tetration
 
-need
-python
-torch
-numpy
+you need to
+python,
+torch,
+numpy,
 matplotlib
